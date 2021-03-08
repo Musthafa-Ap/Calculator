@@ -13,10 +13,12 @@
     margin-top: 17px;
     background: white;
     pointer-events: none;
+    font-size: 20px;
 }
 .button{
     height: 50px;
     width: 49px;
     margin-left: 18px;
     margin-top: 18px;
+font-size: 19px;
 }
